@@ -19,6 +19,7 @@ class PageController extends BaseController
         $data['title'] = ucfirst($page);
         // echo "options $data";
         
+        
         echo view('templates/header' , $data);
         // echo view('templates/navbar' , $data);
         echo view('pages/' .$page, $data);

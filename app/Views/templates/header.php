@@ -46,7 +46,7 @@
     <div class="corner"></div>
     <div class="container">
         <nav class="navbar mt-4 navbar-expand-lg navbar-light ">
-            <a class="navbar-brand" href="">
+            <a class="navbar-brand" href="/home">
                 <img src="assets/images/aarhat_logo.png" alt="Aarhat Logo" height="50" />
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" aria-label="Toggle navigation"

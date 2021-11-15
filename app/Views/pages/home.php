@@ -336,7 +336,7 @@
                                         </select>
                                     </div>
                                     <div class="form-group p-3">
-                                        <textarea name="desciption" class="form-control contactInput" rows="3"
+                                        <textarea name="desciption" class="form-control contactInput" rows="3" placeholder="Type a message"
                                             style="max-height: 100px;"></textarea>
                                     </div>
                                 </form>

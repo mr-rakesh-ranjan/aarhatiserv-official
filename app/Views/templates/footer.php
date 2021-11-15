@@ -102,7 +102,7 @@
                                                 <div class="d-flex flex-column">
                                                     <h3 class={`text-white ${styles.h3hide}`}>
                                                         &nbsp;&nbsp;
-                                                        &nbsp;&nbsp;&nbsp; &nbsp;
+                                                        &nbsp;&nbsp;&nbsp;&nbsp;
                                                     </h3>
                                                     <ul class="list-unstyled ">
                                                         <li>
