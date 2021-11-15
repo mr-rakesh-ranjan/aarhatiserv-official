@@ -19,9 +19,6 @@
     </section>
     <!-- hero section ends -->
     <!---------------------------------------- updated code ---------------------------- -->
-
-
-
     <div class="jumbotron jumbotron-fluid container-fluid seoScore" id="seo2">
 
       <div class="container">

@@ -57,7 +57,7 @@
       <!-- medic section ends -->
 
       <!--  doc section-->
-      <section class="docSection">
+      <!-- <section class="docSection">
         <div class="greenline1"></div>
         <div class="container">
           <div class="row py-5">
@@ -84,7 +84,7 @@
             </div>
           </div>
         </div>
-      </section>
+      </section> -->
       <!-- doc section ends -->
       <!-- tasync section -->
       <section class="tasyncSection">

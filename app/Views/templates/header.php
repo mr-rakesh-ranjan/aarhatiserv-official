@@ -46,7 +46,7 @@
     <div class="corner"></div>
     <div class="container">
         <nav class="navbar mt-4 navbar-expand-lg navbar-light ">
-            <a class="navbar-brand" href="home">
+            <a class="navbar-brand" href="">
                 <img src="assets/images/aarhat_logo.png" alt="Aarhat Logo" height="50" />
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" aria-label="Toggle navigation"
@@ -97,7 +97,7 @@
                     </li>
                     <li class="nav-item">
 
-                        <a href="http://localhost/myci4/blog/" class="nav-link mt-2 mr-5">Blog </a>
+                        <a href="http://localhost/myci4/blog/" class="nav-link mt-2 mr-5">V-Blog </a>
 
                     </li>
                     <!--<li class="nav-link">

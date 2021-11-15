@@ -196,14 +196,9 @@
             gallery.push(
               `<div class="col-md-4 mb-3">
                   <div class="card">
-                      <div class="card-body py-5 shadow">`
-                            if(type==motion){
-                              `<iframe width="560" height="315" src="https://www.youtube.com/embed/bmdi3oh29m4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-                              </iframe>`
-                            } else {
-                          `<img src=` +data.image+ ` class="img-fluid"/>`
-                            }
-                      `</div>
+                      <div class="card-body py-5 shadow">
+                          <img src=` +data.image+ ` class="img-fluid"/>
+                      </div>
                     </div>
                 </div>`
             );

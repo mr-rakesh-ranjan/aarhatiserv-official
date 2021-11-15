@@ -9,8 +9,12 @@ class PageController extends BaseController
     public function index()
     {
         echo "welcome to pagecontroller";
+        // $data['title'] = 'Home';
+        // echo view('templates/header', $data);
+        // echo view('pages/home');
+        // echo view('templates/footer', $data);
     }
-    public function view($page)
+    public function view($page = 'home')
     {
         $data['title'] = ucfirst($page);
         // echo "options $data";

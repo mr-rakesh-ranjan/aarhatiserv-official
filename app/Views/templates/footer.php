@@ -40,7 +40,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a class="nav-link text-white font-weight-bold" href="/vblog">
+                                            <a class="nav-link text-white font-weight-bold" href="http://localhost/myci4/blog/">
                                                 V-logs
                                             </a>
                                         </li>
